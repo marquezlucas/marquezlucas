@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marquezlucas" alt="marquezlucas" /></a> </p>
 
+# 💫 About Me:
+
 - 🔭 I’m currently working on [SQL_ Proyecto Final Datos para todos](https://github.com/marquezlucas/curso-sql/blob/main/Curso%20SQL_%20Proyecto%20Final%20Datos%20para%20todos%20-%20Lucas%20Andrés%20Márquez.pdf)
 
 - 🌱 I’m currently learning **SQL, Tableau, R**
