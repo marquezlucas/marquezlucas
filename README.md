@@ -26,38 +26,9 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/lucas-a-márquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas-a-márquez" height="30" width="40" /></a>
 </p>
 
-<div>
-  
-- 💻 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-  
-- 🛢
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=for-the-badge&logo=microsoft-sql-server&logoColor=yellow)
-  
-- ⚙️ 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-- 🔧 
-  ![Código de Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Geany](https://img.shields.io/badge/-Geany-333333?style=flat&logo=geany)
-  
-- 📈 
-  ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
-  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=Excel)
-  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
-</div>
-
-
-<div>
-  <h3> 📚 En poco pretendo aprender: </h3>
-  
-   ![Ruby(Estadisticas)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-  
- </div>
  
 <h3 align="left">Languages and Tools:</h3>
+<img height="40" src="https://cdn.svgporn.com/logos/r-lang.svg"> <img height="40" src="https://cdn.svgporn.com/logos/python.svg">   <img height="40" src="https://cdn.svgporn.com/logos/postgresql.svg">  <img height="40" src="https://cdn.svgporn.com/logos/mysql.svg">  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg"> <img height="40" src="https://www.itop.es/templates/yootheme/cache/pentaho-color-itop-262f3056.png"> <img height="38" src="https://www.tableau.com/themes/custom/tableau_www/logo.png">
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
