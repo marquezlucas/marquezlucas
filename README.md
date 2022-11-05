@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I really love play video games and watch anime**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<br><p align="left">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lucas-a-márquez) 
 <a href="https://linkedin.com/in/www.linkedin.com/in/lucas-a-márquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas-a-márquez" height="30" width="40" /></a>
