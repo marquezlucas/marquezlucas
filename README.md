@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [SQL_ Proyecto Final Datos para todos](https://github.com/marquezlucas/curso-sql/blob/main/Curso%20SQL_%20Proyecto%20Final%20Datos%20para%20todos%20-%20Lucas%20Andrés%20Márquez.pdf)
+- 🔭 I’m currently working on [SQL_ Proyecto Final Datos para todos](https://github.com/marquezlucas/portfolio/blob/main/Proyecto_Final%20-%20Lucas%20Andrés%20Márquez.pdf)
 
 - 🌱 I’m currently learning **SQL, Tableau, R**
 
