@@ -16,13 +16,13 @@
 
 - 📫 How to reach me **marquezlucas1511@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bB8MCWM7b0DVJe5sHujntgAcDFd73O0W/view?usp=sharing](https://drive.google.com/file/d/1bB8MCWM7b0DVJe5sHujntgAcDFd73O0W/view?usp=sharing)
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1bB8MCWM7b0DVJe5sHujntgAcDFd73O0W/view?usp=sharing](https://drive.google.com/file/d/1Q_BAUrw4uI-Zm_DQWs-eR6W5ffqlXcol/view?usp=sharing))
 
 - ⚡ Fun fact **I really love play video games and watch anime**
 
 <h3 align="left">Connect with me:</h3>
  
-<a href="https://linkedin.com/in/www.linkedin.com/in/lucas-a-márquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas-a-márquez" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/www.linkedin.com/in/lucas-a-márquez](https://www.linkedin.com/in/lucas-a-márquez/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas-a-márquez" height="30" width="40" /></a>
 </p>
 
  
