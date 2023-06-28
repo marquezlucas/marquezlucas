@@ -19,8 +19,6 @@
 - 📄 Know about my experiences ([https://drive.google.com/file/d/1bB8MCWM7b0DVJe5sHujntgAcDFd73O0W/view?usp=sharing](https://drive.google.com/file/d/1Q_BAUrw4uI-Zm_DQWs-eR6W5ffqlXcol/view?usp=sharing))
 
 - ⚡ Fun fact **I really love play video games and watch anime**
-
-<h3 align="left">Connect with me:</h3>
  
 <h3 align="left">Languages and Tools:</h3>
 
