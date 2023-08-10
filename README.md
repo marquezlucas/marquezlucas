@@ -6,9 +6,9 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [SQL_ Proyecto Final Datos para todos](https://github.com/marquezlucas/portfolio/blob/main/Proyecto_Final%20-%20Lucas%20Andrés%20Márquez.pdf)
+- 🔭 I’m currently working on [hyperblog](https://github.com/marquezlucas/hyperblog)
 
-- 🌱 I’m currently learning **SQL, Tableau, R**
+- 🌱 I’m currently learning **Git y GitHub**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marquezlucas/portfolio](https://github.com/marquezlucas/portfolio)
 
