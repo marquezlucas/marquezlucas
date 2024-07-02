@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **marquezlucas1511@gmail.com**
 
-- 📄 Know about my experiences[ CV](https://drive.google.com/file/d/1iLweR4h0GmVrvGH7_BFcPXPx2iHiyFhd/view?usp=sharing)
+- 📄 Know about my experiences[ CV](https://drive.google.com/file/d/1YSRIFRhKkIV0sN9KLKuHEepIrS5-q4hF/view?usp=sharing)
 
 - ⚡ Fun fact **I really love play video games and watch anime**
  
