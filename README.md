@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Spark]([https://github.com/marquezlucas/ds](https://github.com/marquezlucas/portfolio/tree/main/spark))
+- 🔭 I’m currently working on [Spark]([https://github.com/marquezlucas/ds](https://github.com/marquezlucas/portfolio/tree/main/spark)
 
 - 🌱 I’m currently learning **Git y GitHub**
 
