@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [ds](https://github.com/marquezlucas/ds)
+- 🔭 I’m currently working on [Spark]([https://github.com/marquezlucas/ds](https://github.com/marquezlucas/portfolio/tree/main/spark))
 
 - 🌱 I’m currently learning **Git y GitHub**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **marquezlucas1511@gmail.com**
 
-- 📄 Know about my experiences[ CV](https://drive.google.com/file/d/1IK54yKYDcfQnrE9s9PwypEQByT27HbWq/view?usp=sharing)
+- 📄 Know about my experiences[ CV](https://drive.google.com/file/d/1eMTYOtH2LI4o7pKjA3LyjftWuRlYqwfM/view?usp=sharing)
 
 - ⚡ Fun fact **I really love play video games and watch anime**
  
