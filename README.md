@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Spark](https://github.com/marquezlucas/portfolio/tree/main/spark)
 
-- 🌱 I’m currently learning **Git y GitHub**
+- 🌱 I’m currently learning **GCP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marquezlucas/portfolio](https://github.com/marquezlucas/portfolio)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **marquezlucas1511@gmail.com**
 
-- 📄 Know about my experiences[ CV](https://drive.google.com/file/d/1eMTYOtH2LI4o7pKjA3LyjftWuRlYqwfM/view?usp=sharing)
+- 📄 Know about my experiences[ CV](https://drive.google.com/file/d/1auq7rsHGZlD3Ix8Qm2p4Srt5I3Wv4kEv/view?usp=sharing)
 
 - ⚡ Fun fact **I really love play video games and watch anime**
  
