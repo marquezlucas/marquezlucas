@@ -1,5 +1,5 @@
 <h1 align="center">Lucas Andrés Márquez</h1>
-<h3 align="center">Analista de Datos Sr · Calidad, validación y gobierno de datos · BI</h3>
+<h3 align="center">Analista de Datos · Calidad, validación y gobierno de datos · BI</h3>
 <p align="center">Buenos Aires, Argentina · Español nativo · Inglés B2</p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 Analista de datos con más de 4 años en los sectores **financiero, fintech y telecomunicaciones**. Me especializo en que los datos sean **confiables antes de que lleguen a un tablero**: defino reglas de calidad, valido cargas y construyo los indicadores que usan las áreas de negocio para decidir.
 
-- 🏦 **Hoy:** Analista de Datos Sr en **BBVA** (Operaciones). Tableros de KPIs en Looker Studio para más de 17 equipos internos, consultas SQL sobre Teradata y coordinación con Seguridad y Arquitectura en una iniciativa de gobierno de datos.
+- 🏦 **Hoy:** Analista de Datos en **BBVA** (Operaciones). Tableros de KPIs en Looker Studio para más de 17 equipos internos, consultas SQL sobre Teradata y coordinación con Seguridad y Arquitectura en una iniciativa de gobierno de datos.
 - 📡 **Antes:** **Getronics** para Telefónica Hispam. Dashboards de calidad de red para 8 países, reglas de calidad de datos (DQ) definidas con el cliente y una matriz IEM vs. churn para priorizar inversión en sitios de red.
 - 💳 **Antes:** **Wenance**. Sistema de BI de calidad multicanal (Ventas, Retención, Cobranza, ATC), pipelines ETL con Talend y optimización de SQL que redujo un 50 % las ventanas de procesamiento críticas.
 - 🎓 Cursando la **Licenciatura en Inteligencia Artificial y Ciencia de Datos** (UADE).
@@ -23,7 +23,7 @@ Analista de datos con más de 4 años en los sectores **financiero, fintech y te
 
 ### About me
 
-Senior Data Analyst with 4+ years in banking, fintech and telecom. I focus on **data quality, validation and governance**: making sure data is trustworthy before it reaches a dashboard. Currently at BBVA (Operations) and studying a BSc in AI & Data Science at UADE.
+Data Analyst with 4+ years in banking, fintech and telecom. I focus on **data quality, validation and governance**: making sure data is trustworthy before it reaches a dashboard. Currently at BBVA (Operations) and studying a BSc in AI & Data Science at UADE.
 
 ---
 
