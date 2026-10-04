@@ -11,7 +11,7 @@
 
 ---
 
-### 🇦🇷 Sobre mí
+### Sobre mí
 
 Analista de datos con más de 4 años en los sectores **financiero, fintech y telecomunicaciones**. Me especializo en que los datos sean **confiables antes de que lleguen a un tablero**: defino reglas de calidad, valido cargas y construyo los indicadores que usan las áreas de negocio para decidir.
 
@@ -21,7 +21,7 @@ Analista de datos con más de 4 años en los sectores **financiero, fintech y te
 - 🎓 Cursando la **Licenciatura en Inteligencia Artificial y Ciencia de Datos** (UADE).
 - 🎯 Me interesan los roles de datos en **energía y minería**.
 
-### 🇬🇧 About me
+### About me
 
 Senior Data Analyst with 4+ years in banking, fintech and telecom. I focus on **data quality, validation and governance**: making sure data is trustworthy before it reaches a dashboard. Currently at BBVA (Operations) and studying a BSc in AI & Data Science at UADE.
 
@@ -45,6 +45,7 @@ Senior Data Analyst with 4+ years in banking, fintech and telecom. I focus on **
 ![Talend](https://img.shields.io/badge/Talend-FF6D70?logo=talend&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Data%20Factory%20%7C%20Data%20Lake%20%7C%20SQL-0078D4?logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20RDS%20%7C%20Redshift-232F3E?logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
