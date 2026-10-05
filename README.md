@@ -55,6 +55,7 @@ Data Analyst with 4+ years in banking, fintech and telecom. I focus on **data qu
 
 | Proyecto | Qué muestra | Stack |
 |---|---|---|
+| [Producción en Vaca Muerta: pipeline y calidad de datos](https://github.com/marquezlucas/produccion-vaca-muerta) | Capas raw → staging → marts, 14 reglas de calidad con severidad y hallazgos sobre productividad de pozos | DuckDB · SQL · Python |
 | [Base de ventas con auditoría y controles de calidad](https://github.com/marquezlucas/portfolio/tree/main/sql-ventas-auditoria-calidad) | Modelo relacional con triggers de auditoría, y 9 reglas de calidad que detectaron errores de carga (18 de 30 ventas con margen > 100 %) | MySQL 8 |
 | [Pipeline API → Redshift con Airflow](https://github.com/marquezlucas/portfolio/tree/main/pipeline-api-redshift-airflow) | Orquestación diaria, carga idempotente y controles de calidad post-carga | Airflow · Docker · Redshift |
 | [Atribución multicanal y simulador de presupuesto](https://github.com/marquezlucas/portfolio/tree/main/atribucion-marketing-roi-streamlit) | App interactiva y simulador de presupuesto, con los supuestos explícitos | Streamlit · Plotly |
